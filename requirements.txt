@@ -6,3 +6,6 @@ scikit-learn
 tensorFlow
 Torch
 keras
+python-dotenv
+mysql-connector-python
+pymysql
