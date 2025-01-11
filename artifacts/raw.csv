@@ -1,37 +1,36 @@
-Gender,Race_Ethnicity,Parental_Level_O,Test_prep,Test_prep_[0],Math_score,Reading_Score,Writing_Score
-Female,Group B,Bachelor's Degre Standard,None,None,72,72,74
-Male,Group C,some college,Complete,Complete,69,90,88
-Female,Group A,master's degree,None,None,90,95,93
-Male,Group B,associate's degree,None,None,47,97,44
-Female,Group C,high school,None,None,76,78,75
-Male,Group A,Bachelor's Degre Standard,None,None,71,57,78
-Female,Group B,some college,Complete,Complete,88,83,92
-Male,Group C,master's degree,None,None,40,92,29
-Female,Group A,associate's degree,Complete,Complete,64,83,39
-Male,Group B,high school,None,None,38,64,67
-Female,Group C,Bachelor's Degre Standard,None,None,58,43,88
-Male,Group A,some college,Complete,Complete,40,60,50
-Female,Group B,master's degree,None,None,65,54,52
-Male,Group C,associate's degree,None,None,78,52,43
-Female,Group D,high school,None,None,50,81,73
-Male,Group B,Bachelor's Degre Standard,None,None,51,72,87
-Female,Group B,some college,Complete,Complete,67,72,70
-Male,Group A,master's degree,Complete,Complete,56,53,81
-Female,Group B,associate's degree,None,None,34,79,72
-Male,Group D,high school,None,None,65,78,53
-Female,Group A,Bachelor's Degre Standard,None,None,78,58,75
-Male,Group B,some college,None,None,67,59,66
-Female,Group C,master's degree,None,None,43,59,65
-Male,Group A,associate's degree,Complete,Complete,56,58,64
-Female,Group B,high school,None,None,56,57,64
-Male,Group C,Bachelor's Degre Standard,None,None,65,56,64
-Female,Group A,some college,None,None,43,54,63
-Male,Group B,master's degree,None,None,34,53,63
-Female,Group C,associate's degree,Complete,Complete,32,52,63
-Male,Group A,high school,None,None,75,51,63
-Female,Group B,Bachelor's Degre Standard,Complete,Complete,85,50,62
-Male,Group C,some college,None,None,93,49,62
-Female,Group A,master's degree,None,None,65,48,62
-Male,Group B,associate's degree,Complete,Complete,99,47,62
-Female,Group C,high school,None,None,76,46,61
-Male,Group A,Bachelor's Degre Standard,None,None,89,45,61
+Gender,Race_Ethnicity,Parental_Level_O,Test_prep,lunch,Math_score,Reading_Score,Writing_Score
+Female,Group B,Bachelor's Degre Standard,,Standard,72,72,74
+Male,Group C,some college,Complete,Standard,69,90,88
+Female,Group A,master's degree,,Standard,90,95,93
+Male,Group B,associate's degree,,free/reduced,47,97,44
+Female,Group C,high school,,Standard,76,78,75
+Male,Group A,Bachelor's Degre Standard,,Standard,71,57,78
+Female,Group B,some college,Complete,Standard,88,83,92
+Male,Group C,master's degree,,free/reduced,40,92,29
+Female,Group A,associate's degree,Complete,Standard,64,83,39
+Male,Group B,high school,,Standard,38,64,67
+Female,Group C,Bachelor's Degre Standard,,Standard,58,43,88
+Male,Group A,some college,Complete,free/reduced,40,60,50
+Female,Group B,master's degree,,Standard,65,54,52
+Male,Group C,associate's degree,,Standard,98,90,67
+Female,Group D,high school,,Standard,99,89,79
+Male,Group B,Bachelor's Degre Standard,,free/reduced,51,72,87
+Male,Group A,master's degree,Complete,Standard,56,53,81
+Female,Group B,associate's degree,,Standard,34,79,72
+Male,Group D,high school,,free/reduced,65,78,53
+Female,Group A,Bachelor's Degre Standard,,Standard,78,58,75
+Male,Group B,some college,,Standard,67,59,66
+Female,Group C,master's degree,,Standard,43,59,65
+Male,Group A,associate's degree,Complete,free/reduced,56,58,64
+Female,Group B,high school,,Standard,56,57,64
+Male,Group C,Bachelor's Degre Standard,,Standard,65,56,64
+Female,Group A,some college,,free/reduced,43,54,63
+Male,Group B,master's degree,,Standard,34,53,63
+Female,Group C,associate's degree,Complete,Standard,32,52,63
+Male,Group A,high school,,Standard,75,51,63
+Female,Group B,Bachelor's Degre Standard,Complete,free/reduced,85,50,62
+Male,Group C,some college,,Standard,93,49,99
+Female,Group A,master's degree,,Standard,65,48,62
+Male,Group B,associate's degree,Complete,Standard,99,47,62
+Female,Group C,high school,,free/reduced,76,46,61
+Male,Group A,Bachelor's Degre Standard,,Standard,89,45,6

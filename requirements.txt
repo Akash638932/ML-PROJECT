@@ -9,3 +9,6 @@ keras
 python-dotenv
 mysql-connector-python
 pymysql
+catboost 
+xgboost
+sklearn
